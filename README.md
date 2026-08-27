@@ -1,39 +1,30 @@
-## # Hi, I’m Adam 👋
+<p align="center">
+  <img src="YOUR-BANNER-IMAGE-LINK" alt="Adam Simson banner" width="100%" />
+</p>
 
-Mechanical and energy engineering student @ Heriott Watt Dubai
-Researcher and chapter leader @Synthica
-Core team at proplr.ae
+<h1 align="center">Adam Simson</h1>
 
-I’m interested in practical technology that improves how people live—especially accessibility, AI, energy, and applied engineering.
+<p align="center">
+  Engineering student • Independent researcher • Builder
+</p>
 
-## Selected work
+<p align="center">
+  <a href="YOUR-LINKEDIN-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Simson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Engineering-16325C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Dubai%2C%20UAE-0F766E?style=for-the-badge" />
+</p>
 
-- **[SignRelay](https://github.com/adamjamiesimson/SignRelay)** — Real-time multilingual sign-language translation platform.
-- **MS-MLB** — Open machine-learning research on blood-based multiple-sclerosis classification.
-- **Blood-RNA-ML-benchmark** — Reproducible source code and experiments supporting the MS-MLB project.
+## Building at the intersection of engineering, AI, and accessibility.
 
-## Currently focused on
+- **SignRelay** — real-time multilingual sign-language translation.
+- **MS-MLB** — machine-learning research for blood-based MS classification.
+- Currently developing a stronger foundation in mathematics, physics, and engineering.
 
-- Engineering foundations: mathematics and physics  
-- Building SignRelay into a genuinely useful accessibility product  
-- Applied research at the intersection of AI and engineering  
+## Selected projects
 
-## Connect
-
-- LinkedIn: [Adam Simson](YOUR_LINKEDIN_LINK)
-- Email: adam.jamie.simson@gmail.com
-
-<!--
-**adamjamiesimson/adamjamiesimson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is |
+|---|---|
+| [SignRelay](https://github.com/adamjamiesimson/SignRelay) | An accessibility-focused, real-time sign-language translator |
+| MS-MLB | Published open machine-learning research |
