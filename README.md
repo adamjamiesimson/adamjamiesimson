@@ -20,7 +20,11 @@
 
 ## About
 
-I’m a student builder and independent researcher from Dubai. I’m interested in technology that is practical, accessible, and worth using.
+Engineering student at **Heriot-Watt University Dubai**  
+Chapter Leader and researcher at **Synthica**  
+Core team at **Proplr.ae**
+
+I’m interested in turning ambitious ideas into technology that is useful, accessible, and thoughtfully built. My work brings together AI, research, education, and practical product-building through projects such as SignRelay and BookQuest. I’m building a strong engineering foundation while continuing to learn, collaborate, and take on work with real-world value.
 
 ## Current work
 
