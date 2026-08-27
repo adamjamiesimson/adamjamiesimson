@@ -47,11 +47,3 @@ Co-author of open machine-learning research on blood-based multiple-sclerosis cl
 <p>
   <img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,tailwind,git,github,vercel&perline=8" alt="TypeScript, Python, Next.js, React, Tailwind CSS, Git, GitHub and Vercel" />
 </p>
-
-## Interests
-
-Applied AI, accessibility technology, education technology, engineering, and research.
-
-## Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/adam-simson-677a1529a/) · [ORCID](https://orcid.org/0009-0009-1192-3787) · [BookQuest](https://bookquestgame.vercel.app)
