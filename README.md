@@ -24,11 +24,4 @@
 
 - **[SignRelay](https://github.com/adamjamiesimson/SignRelay)** — real-time multilingual sign-language translation.
 - **[MS-MLB](https://arxiv.org/abs/2608.05196)** — open machine-learning research for blood-based MS classification.
-- Currently strengthening my foundation in mathematics, physics, and engineering.
-
-## Selected projects
-
-| Project | What it is |
-|---|---|
-| [SignRelay](https://github.com/adamjamiesimson/SignRelay) | An accessibility-focused, real-time sign-language translator |
-| [MS-MLB research paper](https://arxiv.org/abs/2608.05196) | Published open machine-learning research |
+- **Co-founder of [BookQuest](https://bookquestgame.vercel.app)** — an interactive game-based learning platform.
