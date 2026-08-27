@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-BANNER-IMAGE-LINK" alt="Adam Simson banner" width="100%" />
+  <img src="./banner.png" alt="Adam Simson — Engineering, AI and Research" width="100%" />
 </p>
 
 <h1 align="center">Adam Simson</h1>
@@ -9,22 +9,26 @@
 </p>
 
 <p align="center">
-  <a href="YOUR-LINKEDIN-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Simson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/adam-simson-677a1529a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Simson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Engineering-16325C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Dubai%2C%20UAE-0F766E?style=for-the-badge" />
+  <a href="https://github.com/adamjamiesimson/SignRelay">
+    <img src="https://img.shields.io/badge/Project-SignRelay-16325C?style=for-the-badge&logo=github&logoColor=white" alt="SignRelay" />
+  </a>
+  <a href="https://arxiv.org/abs/2608.05196">
+    <img src="https://img.shields.io/badge/Research-MS--MLB-0F766E?style=for-the-badge&logo=arxiv&logoColor=white" alt="MS-MLB paper" />
+  </a>
 </p>
 
 ## Building at the intersection of engineering, AI, and accessibility.
 
-- **SignRelay** — real-time multilingual sign-language translation.
-- **MS-MLB** — machine-learning research for blood-based MS classification.
-- Currently developing a stronger foundation in mathematics, physics, and engineering.
+- **[SignRelay](https://github.com/adamjamiesimson/SignRelay)** — real-time multilingual sign-language translation.
+- **[MS-MLB](https://arxiv.org/abs/2608.05196)** — open machine-learning research for blood-based MS classification.
+- Currently strengthening my foundation in mathematics, physics, and engineering.
 
 ## Selected projects
 
 | Project | What it is |
 |---|---|
 | [SignRelay](https://github.com/adamjamiesimson/SignRelay) | An accessibility-focused, real-time sign-language translator |
-| MS-MLB | Published open machine-learning research |
+| [MS-MLB research paper](https://arxiv.org/abs/2608.05196) | Published open machine-learning research |
