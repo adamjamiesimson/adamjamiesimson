@@ -24,4 +24,4 @@
 
 - **[SignRelay](https://github.com/adamjamiesimson/SignRelay)** - real-time multilingual sign-language translation.
 - **[MS-MLB](https://arxiv.org/abs/2608.05196)** - open machine-learning research for blood-based MS classification.
-- ** [BookQuest](https://bookquestgame.vercel.app)** - an interactive game-based learning platform.
+- **[BookQuest](https://bookquestgame.vercel.app)** - an interactive game-based learning platform.
