@@ -7,13 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adam-simson-677a1529a/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://bookquestgame.vercel.app">BookQuest</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/adamjamiesimson/SignRelay">SignRelay</a>
-  &nbsp;•&nbsp;
-  <a href="https://arxiv.org/abs/2608.05196">MS-MLB paper</a>
+  <a href="https://www.linkedin.com/in/adam-simson-677a1529a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Simson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/adamjamiesimson/SignRelay">
+    <img src="https://img.shields.io/badge/Explore-SignRelay-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="SignRelay" />
+  </a>
+  <a href="https://bookquestgame.vercel.app">
+    <img src="https://img.shields.io/badge/Visit-BookQuest-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="BookQuest" />
+  </a>
+  <a href="https://arxiv.org/abs/2608.05196">
+    <img src="https://img.shields.io/badge/Read-MS--MLB%20Paper-B45309?style=for-the-badge&logo=arxiv&logoColor=white" alt="MS-MLB paper" />
+  </a>
 </p>
 
 ---
